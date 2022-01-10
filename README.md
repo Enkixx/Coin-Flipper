@@ -1,5 +1,5 @@
-# Kenzie Academy JavaScript Assignment
+# Coin Flipper
 
-Complete your work inside of `code.js`
+Project completed for Kenzie Academy Front-End Developer Program.
 
-Follow the instructions provided on my.kenzie.academy for this assignment.
+Project designed to show understanding of object-oriented JavaScript.
