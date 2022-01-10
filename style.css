@@ -1,0 +1,27 @@
+/* Write your CSS Here. */
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: bisque;
+    font-size: x-large;
+}
+
+button{
+    min-width: 8rem;
+    margin: 1rem;
+}
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.flip{
+    transform: rotateX(360deg);
+    transition: 1s
+}
